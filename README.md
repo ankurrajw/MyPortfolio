@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/ankurrajw/Improved-Eureka/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+I am Ankur Raj, currently a student of M.Sc. Mechatronics at Universiät Siegen.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
